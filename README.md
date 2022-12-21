@@ -1,1 +1,2 @@
-# PreEntrega1Maranzano
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Calcular_Sueldo_0"></a>Calcular Sueldo</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Pequeño codigo que calcula el sueldo neto en Argentina, en base al sueldo bruto ingresado por el usuario. Por el momento solo calcula aportes basicos (Jubilacion, Obra Social y Pami), a medida que voy aprendiendo agregaré más cosas.</p>
